@@ -4,6 +4,8 @@ A Search Engine Interface for the newhaven.edu domain. A webpage is displayed to
 
 This Project was developed using Python and a Python library 'Flask'. **Flask** is a popular Python web framework. It is a third-party Python library used for developing web applications.
 
+> However, This Project currently does not work properly since it does not have a datastore to collect the crawled content from. 
+
 ## Requirements
 
 * Python3
