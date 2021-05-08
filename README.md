@@ -25,7 +25,7 @@ This Project was developed using Python and a Python library 'Flask'. **Flask** 
 * Install all the dependecies in your virtual enviornment using the command
 > `pip install -r requirements.txt`
 * Execute the Code using the following command
-* python manage.py webpage
+> `python manage.py webpage`
 * Open the App on Browser using the server link to view the Results.
 
 ## Images
