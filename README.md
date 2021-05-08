@@ -6,6 +6,7 @@ This Project was developed using Python and a Python library 'Flask'. **Flask** 
 
 ## Requirements
 
+* Python3
 * Flask
 * Requests
 * BeautifulSoup4
