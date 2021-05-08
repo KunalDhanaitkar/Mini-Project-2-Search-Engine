@@ -26,3 +26,6 @@ This Project was developed using Python and a Python library 'Flask'. **Flask** 
 * Open the App on Browser using the server link to view the Results.
 
 ## Images
+
+![image1](https://user-images.githubusercontent.com/78525041/117522787-3c2b9d80-af83-11eb-9ff9-cbd96e779a44.png)
+![image2](https://user-images.githubusercontent.com/78525041/117522786-3b930700-af83-11eb-9818-dc2aa6b9a9bd.png)
